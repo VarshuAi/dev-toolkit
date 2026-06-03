@@ -13,13 +13,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20dev-toolkit%20%F0%9F%9A%80;%3E%20Built%20using%20HTML%20%7C%20Optimized%20%26%20Secure;%3E%20A%20premium%20collection%20of%2010%2B%20developer%20ut...)](https://github.com/VarshuAi/dev-toolkit)
+<a href="https://github.com/VarshuAi/dev-toolkit"><img src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20dev-toolkit%20%F0%9F%9A%80;%3E%20Built%20using%20HTML%20%7C%20Optimized%20%26%20Secure;%3E%20A%20premium%20collection%20of%2010%2B%20developer%20ut..." alt="Typing SVG"/></a>
 
 <br/>
 
-![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
-![Language](https://img.shields.io/badge/HTML-Tech-00CC66?style=for-the-badge&logo=html&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/HTML-Tech-00CC66?style=for-the-badge&logo=html&logoColor=black" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002211,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
 
@@ -46,7 +46,7 @@ primary_tech: HTML
 
 <div align="center">
 <br>
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarshuAi&repo=dev-toolkit&theme=react-dark&bg_color=000000&color=00FF88&line=00FF88&point=00CC66)](https://github.com/VarshuAi/dev-toolkit)
+<a href="https://github.com/VarshuAi/dev-toolkit"><img src="https://github-readme-activity-graph.vercel.app/graph?username=VarshuAi&repo=dev-toolkit&theme=react-dark&bg_color=000000&color=00FF88&line=00FF88&point=00CC66" alt="Activity Graph"/></a>
 <br>
 </div>
 
@@ -57,12 +57,9 @@ primary_tech: HTML
 <samp>&nbsp;FEATURES</samp>
 </h2>
 
-- 🌑 **Dark mode by default** — easy on the eyes during late-night coding
-- ⚡ **Zero dependencies** — pure HTML + CSS + Vanilla JS
-- 📱 **Responsive** — works on desktop, tablet, and mobile
-- 🔒 **Privacy-first** — everything runs locally; nothing leaves your browser
-- 🎨 **Premium UI** — glassmorphism, micro-animations, gradient accents
-- 📋 **One-click copy** — all outputs have a copy button
+- ⚡ **Optimized Operations** — Engineered for performance and stability.
+- 🎨 **Sleek Interface & Theme** — Built using VarshuAi standard aesthetics.
+- 🔒 **Zero-Dependency Core** — Minimal setup complexity.
 
 <!-- ============================== COMMANDS ============================== -->
 
@@ -71,20 +68,11 @@ primary_tech: HTML
 <samp>&nbsp;COMMANDS & USAGE</samp>
 </h2>
 
-Just open `index.html` in any modern browser — it's **100% client-side**:
-
 ```bash
-# Clone the repo
+# Clone the repository structure
 git clone https://github.com/VarshuAi/dev-toolkit.git
 cd dev-toolkit
-
-# Open in browser (no server needed)
-start index.html   # Windows
-open index.html    # macOS
-xdg-open index.html # Linux
 ```
-
-Or visit the **GitHub Pages** live demo once enabled in repo settings.
 
 <!-- ============================== TECH STACK ============================== -->
 
@@ -93,11 +81,13 @@ Or visit the **GitHub Pages** live demo once enabled in repo settings.
 <samp>&nbsp;TECH STACK</samp>
 </h2>
 
-- **HTML5** semantic markup  
-- **CSS3** custom properties, grid, animations  
-- **Vanilla JavaScript** — Web Crypto API for hashes, Clipboard API for copying  
-- **Google Fonts** — Inter + JetBrains Mono  
-- **No frameworks, no build step** — just open and go
+<div align="center">
+
+#### `>> SYSTEM INVENTORY`
+![HTML](https://img.shields.io/badge/HTML-Primary_Language-00FF88?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-VCS-00CC66?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 <!-- ============================== SETUP ============================== -->
 
@@ -123,8 +113,10 @@ cd dev-toolkit
 
 ```
 dev-toolkit/
-├── index.html    # Everything lives here (self-contained)
-└── README.md
+├── src/             # Source code entrypoints
+├── docs/            # Project documentation files
+├── README.md        # Interactive readme sheet
+└── LICENSE          # Permission details
 ```
 
 <!-- ============================== FOOTER ============================== -->
@@ -137,12 +129,12 @@ dev-toolkit/
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
-[![Repo](https://img.shields.io/badge/dev-toolkit-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/dev-toolkit)
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/dev-toolkit"><img src="https://img.shields.io/badge/dev-toolkit-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
 
 <br/>
 
