@@ -1,75 +1,79 @@
 <!-- ========================================================================= -->
 <!--                        DEV-TOOLKIT — README                            -->
-<!--       Cyberpunk Premium Theme  |  Animated SVGs  |  Live Badges          -->
+<!--       Pastel Anime Theme  |  Nezuko Profile  |  Soft Light aesthetics        -->
 <!-- ========================================================================= -->
 
 <div align="center">
 
 <!-- ============================== BANNER ============================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:002211,100:000000&height=180&section=header&text=dev-toolkit&fontSize=48&fontColor=00FF88&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC,FFA6C9,FF80AB&height=180&section=header&text=dev-toolkit&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <!-- ============================== TYPING SVG ============================== -->
 
 <br/>
 
-<a href="https://github.com/VarshuAi/dev-toolkit"><img src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20dev-toolkit%20%F0%9F%9A%80;%3E%20Built%20using%20HTML%20%7C%20Optimized%20%26%20Secure;%3E%20A%20premium%20collection%20of%2010%2B%20developer%20ut..." alt="Typing SVG"/></a>
+<a href="https://github.com/VarshuAi/dev-toolkit"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%8C%B8%20Welcome%20to%20dev-toolkit%21%20%F0%9F%8C%B8;%E2%9C%A8%20Powered%20by%20HTML%20%7C%20Cute%20%26%20Optimized%20%E2%9C%A8;%F0%9F%8D%A1%20A%20beautiful%20collection%20of%20developer%20util..." alt="Typing SVG"/></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
-<img src="https://img.shields.io/badge/HTML-Tech-00CC66?style=for-the-badge&logo=html&logoColor=black" alt="Language"/>
-<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/Version-1.0-FFB7C5?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
+<img src="https://img.shields.io/badge/HTML-Soft_Stack-FF80AB?style=for-the-badge&logo=html&logoColor=white" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Kawaii-F50057?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002211,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC,FFA6C9,FF80AB&height=60&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
 <!-- ============================== ABOUT ============================== -->
 
 <h2>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<samp>&nbsp;ABOUT</samp>
+<samp>💮 ABOUT</samp>
 </h2>
 
 ```yaml
-name: dev-toolkit
+project: dev-toolkit
 version: 1.0
-type: Repository
-author: VarshuAi
+type: Soft Repository
+theme_profile: Nezuko Kamado 🌸
 description: >
-  A premium collection of 10+ developer utilities built with vanilla JS
-primary_tech: HTML
+  A beautiful collection of developer utilities in your browser
+tech_stack: HTML
 ```
 
 <!-- ============================== CENTRAL GRAPHIC ============================== -->
 
-<div align="center">
 <br>
-<a href="https://github.com/VarshuAi/dev-toolkit"><img src="https://github-readme-activity-graph.vercel.app/graph?username=VarshuAi&repo=dev-toolkit&theme=react-dark&bg_color=000000&color=00FF88&line=00FF88&point=00CC66" alt="Activity Graph"/></a>
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://media.giphy.com/media/V83NDXhspFUf1tWf1o/giphy.gif" width="160" alt="Avatar"/>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/VarshuAi/dev-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VarshuAi&repo=dev-toolkit&theme=radical&bg_color=FFF0F5&title_color=FF1493&icon_color=FF80AB&text_color=C71585" alt="Repo Stats"/></a>
+    </td>
+  </tr>
+</table>
 <br>
-</div>
 
 <!-- ============================== FEATURES ============================== -->
 
 <h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-<samp>&nbsp;FEATURES</samp>
+<samp>✨ FEATURES</samp>
 </h2>
 
-- ⚡ **Optimized Operations** — Engineered for performance and stability.
-- 🎨 **Sleek Interface & Theme** — Built using VarshuAi standard aesthetics.
-- 🔒 **Zero-Dependency Core** — Minimal setup complexity.
+- 💫 **Chibi Performance** — Clean code layout, fast and responsive operations.
+- 🎀 **Pastel Aesthetics** — Soft visual theme optimized for readability.
+- 🍡 **Easy Integration** — Zero-setup required, fully modular codebase.
 
 <!-- ============================== COMMANDS ============================== -->
 
 <h2>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-<samp>&nbsp;COMMANDS & USAGE</samp>
+<samp>💫 COMMANDS & USAGE</samp>
 </h2>
 
 ```bash
-# Clone the repository structure
+# Clone the repository remote
 git clone https://github.com/VarshuAi/dev-toolkit.git
 cd dev-toolkit
 ```
@@ -77,46 +81,39 @@ cd dev-toolkit
 <!-- ============================== TECH STACK ============================== -->
 
 <h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-<samp>&nbsp;TECH STACK</samp>
+<samp>🎵 TECH STACK</samp>
 </h2>
 
 <div align="center">
 
-#### `>> SYSTEM INVENTORY`
-![HTML](https://img.shields.io/badge/HTML-Primary_Language-00FF88?style=for-the-badge&logoColor=black)
-![Git](https://img.shields.io/badge/Git-VCS-00CC66?style=for-the-badge&logo=git&logoColor=white)
+#### `>> SOFT ARSENAL`
+![HTML](https://img.shields.io/badge/HTML-Primary_Language-FF80AB?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VCS-FFB7C5?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 <!-- ============================== SETUP ============================== -->
 
 <h2>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
-<samp>&nbsp;SETUP</samp>
+<samp>🍓 SETUP</samp>
 </h2>
 
 ```bash
-# 1. Clone repository remote
-git clone https://github.com/VarshuAi/dev-toolkit.git
-cd dev-toolkit
-
-# 2. Check technical prerequsites
-# Ensure runtime matches requirements (HTML)
+# Setup instructions
+# Open the code structure and explore the project!
 ```
 
 <!-- ============================== STRUCTURE ============================== -->
 
 <h2>
-<samp>&nbsp;📁 STRUCTURE</samp>
+<samp>📂 STRUCTURE</samp>
 </h2>
 
 ```
 dev-toolkit/
-├── src/             # Source code entrypoints
-├── docs/            # Project documentation files
-├── README.md        # Interactive readme sheet
-└── LICENSE          # Permission details
+├── src/             # Source files
+├── docs/            # Documentation
+└── README.md        # Themed readme
 ```
 
 <!-- ============================== FOOTER ============================== -->
@@ -125,16 +122,16 @@ dev-toolkit/
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:002211,100:000000&height=80&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC,FFA6C9,FF80AB&height=80&section=footer&text=&fontSize=0" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=14&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Soft.+Scalable.+Sparkly." alt="Typing SVG"/></a>
 
 <br/>
 
-<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
-<a href="https://github.com/VarshuAi/dev-toolkit"><img src="https://img.shields.io/badge/dev-toolkit-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-FF80AB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/dev-toolkit"><img src="https://img.shields.io/badge/dev-toolkit-Repo-FFA6C9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
 
 <br/>
 
