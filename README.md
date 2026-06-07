@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A premium collection of 10+ developer utilities built with vanilla JS
+  name: dev-toolkit version: 1.0 type: Repository author: VarshuAi description: >   A premium collection of 10+ developer utilities built with vanilla JS primary_tech: HTML
 primary_tech: HTML
 ```
 
